@@ -1,0 +1,1 @@
+# FFT-based-Anomaly-detection-in-servo-motor-using-current-sensor-and-IMU-sensor-using-Random-forest
